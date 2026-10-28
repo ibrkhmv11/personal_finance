@@ -1,0 +1,102 @@
+# Translation file for Uzbek (uz)
+# Personal Finance Project
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-28 14:00+0500\n"
+"PO-Revision-Date: 2026-10-28 14:00+0500\n"
+"Last-Translator: Antigravity <admin@example.com>\n"
+"Language-Team: Uzbek <uz@example.com>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "O'zbekcha"
+msgstr "O'zbekcha"
+
+msgid "Русский"
+msgstr "Русский"
+
+msgid "English"
+msgstr "English"
+
+msgid "Tizimdan muvaffaqiyatli chiqildi."
+msgstr "Tizimdan muvaffaqiyatli chiqildi."
+
+msgid "Hamyon o'chirildi."
+msgstr "Hamyon o'chirildi."
+
+msgid "Kategoriya o'chirildi."
+msgstr "Kategoriya o'chirildi."
+
+msgid "Tranzaksiya o'chirildi va balans yangilandi."
+msgstr "Tranzaksiya o'chirildi va balans yangilandi."
+
+msgid "Bu hamyon sizga tegishli emas."
+msgstr "Bu hamyon sizga tegishli emas."
+
+msgid "Bu kategoriya sizga tegishli emas."
+msgstr "Bu kategoriya sizga tegishli emas."
+
+msgid "Kategoriya turi tranzaksiya turiga mos kelmaydi."
+msgstr "Kategoriya turi tranzaksiya turiga mos kelmaydi."
+
+msgid "Naqd pul"
+msgstr "Naqd pul"
+
+msgid "Karta (Uzcard/Humo)"
+msgstr "Karta (Uzcard/Humo)"
+
+msgid "Visa Karta"
+msgstr "Visa Karta"
+
+msgid "Kirim"
+msgstr "Kirim"
+
+msgid "Chiqim"
+msgstr "Chiqim"
+
+msgid "Foydalanuvchi"
+msgstr "Foydalanuvchi"
+
+msgid "Hamyon"
+msgstr "Hamyon"
+
+msgid "Kategoriya"
+msgstr "Kategoriya"
+
+msgid "Hamyon nomi"
+msgstr "Hamyon nomi"
+
+msgid "Hamyon turi"
+msgstr "Hamyon turi"
+
+msgid "Balans"
+msgstr "Balans"
+
+msgid "Valyuta"
+msgstr "Valyuta"
+
+msgid "Kategoriya nomi"
+msgstr "Kategoriya nomi"
+
+msgid "Turi"
+msgstr "Turi"
+
+msgid "Summa"
+msgstr "Summa"
+
+msgid "Tranzaksiya turi"
+msgstr "Tranzaksiya turi"
+
+msgid "Izoh"
+msgstr "Izoh"
+
+msgid "Tranzaksiya vaqti"
+msgstr "Tranzaksiya vaqti"
+
+msgid "Tizimga kiritilgan vaqt"
+msgstr "Tizimga kiritilgan vaqt"
